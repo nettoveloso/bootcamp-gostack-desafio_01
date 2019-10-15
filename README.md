@@ -4,7 +4,7 @@ Desafio 1: Conceitos do NodeJS
 
 ## :rocket: Sobre o desafio
 
-Crie uma aplicação para armazenar projetos e suas tarefas do zero utilizando [Express](https://expressjs.com/pt-br/).
+Criar uma aplicação para armazenar projetos e suas tarefas do zero utilizando [Express](https://expressjs.com/pt-br/).
 
 ### Rotas
 
